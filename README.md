@@ -1,9 +1,10 @@
 # qrcode_scanner
 
 <p> A QR Code Scanner App in Flutter</p>
-  <br>
  This is a minimalist qr code scanner app made in flutter with qr_code_scanner library
-  <br>
+  
+  
+  
 <p align="center">
 <img width="800px"  src="https://github.com/pidwid/qrcode_scanner/blob/master/Android%20Mobile%20%E2%80%93%201%403x.png">
 </p>

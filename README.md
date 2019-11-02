@@ -1,12 +1,13 @@
 # qrcode_scanner
 
-A new Flutter application.
+<h2>A QR Code Scanner App in Flutter</>
+  <br>
+  <p>This is a minimalist qr code scanner app made in flutter with qr_code_scanner library</p>
+  <br>
+<p align="center">
+<img width="800px"  src="https://github.com/pidwid/qrcode_scanner/blob/master/Android%20Mobile%20%E2%80%93%201%403x.png">
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)

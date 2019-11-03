@@ -16,3 +16,6 @@
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Icon made by [eucalyp](https://www.flaticon.com/authors/eucalyp) from [Flaticon](www.flaticon.com).
